@@ -15,6 +15,7 @@ bzl_library(
         "//lib:lipo",
         "//lib:xcode_support",
         "//rules:apple_genrule",
+        "//rules:universal_binary",
     ],
 )
 
